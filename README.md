@@ -1,4 +1,4 @@
-# Jogo das Palvras
+#Jogo das Palvras
 
 #Sobre o Projeto
 O projeto consiste em um jogo onde o usuário receberá uma dica sobre uma palavra que está em branco,
